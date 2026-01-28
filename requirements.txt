@@ -1,0 +1,8 @@
+streamlit
+streamlit-mic-recorder
+azure-ai-projects
+azure-cosmos
+azure-core
+azure-identity
+speechrecognition
+pydub
